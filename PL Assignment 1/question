@@ -1,0 +1,28 @@
+
+
+Reading Assignment - Chapter 1 of Concepts of Programming Languages, 10th ed.
+Written / Programming - Due Sep 9, 5pm to BeachBoard dropboxes.
+1. Write, in the programming language of your choice, an interpreter for Brainfu*k. It is very
+simple, on the order of a late first semester of programming assignment. Did mine in Java, about
+60 lines of code. Run it with this input below - what is the output?
+++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.
++++.------.--------.>>+.>++.
+2. Find the approximate number of reserved / keywords in the following languages (and say
+whether it is usually translated by being interpreted, compiled or is a hybrid:
+ Ada 2010
+ BASIC
+ Visual Basic
+ C (1999)
+ C#
+ C++ (2014)
+ COBOL (2014)
+ FORTRAN 77
+ Python
+ Java
+ Ruby
+ SQL
+There are two separate Dropboxes, one for each written assignment. For problem 1, turn in your source
+code and a screen shoot of the output and the IDE behind it (or surrounding the output). For problem 2,
+turn in a Word, PDF or text file.
+Mac users! Please do not submit zipped directories of your program. And do not use Apple based file
+formats.
