@@ -1,1 +1,17 @@
-hi
+Unit 13 (Last unit!) Assignments
+
+Written Assignment Due Dec 9, 5pm
+
+Write a program Find that searches all files specified on the command line and prints out all lines
+containing a reserved word. Start a new thread for each file. For example, if you call
+java Find Buff report.txt address.txt Homework.java
+
+then the program might print
+
+report.txt: Buffet style lunch will be available at the
+address.txt: Buffet, Warren|11801 Trenton Court|Dallas|TX
+Homework.java: BufferedReader in;
+address.txt: Walters, Winnie|59 Timothy Circle|Buffalo|MI
+
+Make your own input files and search words. The “found” string will start with, in this example,
+“Buff” and run for 40 chars more or until EOL.
